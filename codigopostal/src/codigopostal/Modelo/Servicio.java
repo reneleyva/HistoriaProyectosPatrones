@@ -1,3 +1,4 @@
+
 package codigopostal.Modelo;
 
 
@@ -39,4 +40,8 @@ public class Servicio {
     public void setEstablecimiento(String establecimiento) {
         this.establecimiento = establecimiento;
     }
+
+    
+    
+    
 }

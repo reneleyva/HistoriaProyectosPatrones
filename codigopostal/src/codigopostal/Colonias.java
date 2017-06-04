@@ -1,4 +1,4 @@
-package org.codigopostal;
+package codigopostal;
 
 import java.io.BufferedReader;
 import java.io.File;
